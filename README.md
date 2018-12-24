@@ -27,6 +27,7 @@ If you find recent or great kernels, please start a Pull Request!
 <a name="python"></a>
 ## Python
 
+
 <a name="python-financial-analysis-and-stocks"></a>
 ### Financial Analysis and Stocks
 
@@ -35,10 +36,13 @@ If you find recent or great kernels, please start a Pull Request!
 
 
 <a name="python-natural-language-processing"></a>
-## Natural Language Processing
+### Natural Language Processing
+
+Quora Question Pairs [https://www.kaggle.com/c/quora-question-pairs](https://www.kaggle.com/c/quora-question-pairs):
+* 
 
 <a name="python-housing-price-predictions"></a>
-## Housing Price Predictions
+### Housing Price Predictions
 
 [Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1):
 * SRK: [Simple Exploration Notebook - Zillow Prize](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-zillow-prize)
@@ -46,3 +50,9 @@ If you find recent or great kernels, please start a Pull Request!
 
 <a name="r"></a>
 ## R
+
+<a name="r-housing-price-predictions"></a>
+### Housing Price Predictions
+
+[Zillow Prize: Zillow’s Home Value Prediction (Zestimate)](https://www.kaggle.com/c/zillow-prize-1):
+* Philipp Spachtholz: [Exploratory Analysis - Zillow](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)
